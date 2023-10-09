@@ -1,0 +1,1 @@
+# shop-config-service
